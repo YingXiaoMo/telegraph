@@ -162,7 +162,7 @@ async function handleRootRequest(request, USERNAME, PASSWORD, enableAuth) {
 <body>
   <div class="background" id="background"></div>
   <div class="card">
-      <div class="title">沫沫の图床</div>
+      <div class="title">天天の图床</div>
       <button type="button" class="btn" id="viewCacheBtn" title="查看历史记录"><i class="fas fa-clock"></i></button>
       <button type="button" class="btn" id="compressionToggleBtn"><i class="fas fa-compress"></i></button>
       <div class="card-body">
